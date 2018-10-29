@@ -1,0 +1,14 @@
+C:\Users\ssrivastava\CommandLineDemo\CLIDemoProject\bin\Debug\netcoreapp2.1\CLIDemoProject.deps.json
+C:\Users\ssrivastava\CommandLineDemo\CLIDemoProject\bin\Debug\netcoreapp2.1\CLIDemoProject.runtimeconfig.json
+C:\Users\ssrivastava\CommandLineDemo\CLIDemoProject\bin\Debug\netcoreapp2.1\CLIDemoProject.runtimeconfig.dev.json
+C:\Users\ssrivastava\CommandLineDemo\CLIDemoProject\bin\Debug\netcoreapp2.1\CLIDemoProject.dll
+C:\Users\ssrivastava\CommandLineDemo\CLIDemoProject\bin\Debug\netcoreapp2.1\CLIDemoProject.pdb
+C:\Users\ssrivastava\CommandLineDemo\CLIDemoProject\obj\Debug\netcoreapp2.1\CLIDemoProject.csprojAssemblyReference.cache
+C:\Users\ssrivastava\CommandLineDemo\CLIDemoProject\obj\Debug\netcoreapp2.1\CLIDemoProject.csproj.CoreCompileInputs.cache
+C:\Users\ssrivastava\CommandLineDemo\CLIDemoProject\obj\Debug\netcoreapp2.1\CLIDemoProject.RazorAssemblyInfo.cache
+C:\Users\ssrivastava\CommandLineDemo\CLIDemoProject\obj\Debug\netcoreapp2.1\CLIDemoProject.RazorAssemblyInfo.cs
+C:\Users\ssrivastava\CommandLineDemo\CLIDemoProject\obj\Debug\netcoreapp2.1\CLIDemoProject.AssemblyInfoInputs.cache
+C:\Users\ssrivastava\CommandLineDemo\CLIDemoProject\obj\Debug\netcoreapp2.1\CLIDemoProject.AssemblyInfo.cs
+C:\Users\ssrivastava\CommandLineDemo\CLIDemoProject\obj\Debug\netcoreapp2.1\CLIDemoProject.RazorTargetAssemblyInfo.cache
+C:\Users\ssrivastava\CommandLineDemo\CLIDemoProject\obj\Debug\netcoreapp2.1\CLIDemoProject.dll
+C:\Users\ssrivastava\CommandLineDemo\CLIDemoProject\obj\Debug\netcoreapp2.1\CLIDemoProject.pdb
